@@ -1,7 +1,7 @@
 
 | 名前 | 名前 |
 ----|-----
-| Twitter ||
+| Twitter | https://twitter.com/Sakuya_wd |
 | Qiita ||
 | note ||
 
