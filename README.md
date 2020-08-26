@@ -5,7 +5,7 @@
 | Twitter(コミュ用) | https://twitter.com/Sakuya_wd|
 | Qiita(備忘録) | https://qiita.com/Sakuya_wd|
 | note(技術ブログ) |https://note.com/sakuya_wd|
-| 使用言語 | HTML / CSS / JavaScript / jQuery|
+| 使用言語 | HTML / CSS / JavaScript / jQuery| Jest
 | 得意分野 | Web制作(フロントエンド)|
 
 
