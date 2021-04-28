@@ -1,7 +1,7 @@
 | key | value |
 -|-
 | 名前 | 霧崎さくや |
-| 仕事 | お仕事探しています |
+| 仕事 | 就職先を探しています｡ |
 | Twitter | https://twitter.com/Sakuya_wd|
 | Qiita | https://qiita.com/Sakuya_wd|
 | note |https://note.com/sakuya_wd|
